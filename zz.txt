@@ -2,3 +2,4 @@ here
 Im here£¬emmmm
 yeah£¬aaa
 add one line
+git tracks change of lines
